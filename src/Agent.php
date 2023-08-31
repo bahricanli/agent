@@ -1,6 +1,6 @@
 <?php
 
-namespace Jenssegers\Agent;
+namespace BahriCanli\Agent;
 
 use BadMethodCallException;
 use Jaybizzle\CrawlerDetect\CrawlerDetect;
